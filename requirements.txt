@@ -1,1 +1,5 @@
 jupyterlab
+numpy
+flumine
+pytz
+bz2file
