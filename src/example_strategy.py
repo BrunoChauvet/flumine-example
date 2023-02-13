@@ -8,7 +8,6 @@ import numpy as np
 import pytz
 from datetime import datetime, date
 
-import requests
 from betfairlightweight.resources import MarketBook
 from flumine import BaseStrategy
 from flumine.markets.market import Market
